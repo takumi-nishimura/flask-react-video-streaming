@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={'http://127.0.0.1:8000/stream'} alt="stream" />
+        <img src={"/stream"} alt="stream" />
       </header>
     </div>
   );
